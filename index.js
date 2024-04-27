@@ -137,5 +137,5 @@ const eliminarAlumno = async ({ rut }) => {
 // consultar todos: node index consulta
 // consultar por rut: node index rut 5555864
 // ingresar datos: node index agregar 5555864 Abraham trompeta 5
-// actualizar datos: node index actualizar 5555864 piano 6
+// actualizar datos: node index actualizar 5555864 Abraham piano 6
 // eliminar datos: node index eliminar 5555864
