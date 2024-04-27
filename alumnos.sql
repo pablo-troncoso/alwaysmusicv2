@@ -1,0 +1,9 @@
+-- CREAR DATABASE
+
+--CREAR TABLA
+CREATE TABLE alumnos (
+    rut VARCHAR (20) PRIMARY KEY,
+    nombre VARCHAR(255) NOT NULL,
+    curso VARCHAR(255) NOT NULL,
+    nivel INT
+);
